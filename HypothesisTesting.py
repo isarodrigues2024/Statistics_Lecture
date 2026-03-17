@@ -8,5 +8,5 @@ import matplotlib.pyplot as plt
 # Your code here
 print("Ready for hypothesis testing!")
 
-x = [1 2 3 50 40 65 700 40 500 2 3 8];
-np.mean(x);
+x = [1, 2, 3, 50, 40, 65, 700, 40, 500, 2, 3, 8]
+np.mean(x)
